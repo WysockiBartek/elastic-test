@@ -1,4 +1,4 @@
 type = "config"
 
 [inputs]
-es-password.type = "secret"
+PASSWORD_ES.type = "secret"
